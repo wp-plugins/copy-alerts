@@ -5,13 +5,13 @@ Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, copyalerts, 
 Contributors: mark nelson
 Requires at least: 1.5
 Tested up to: 2.5
-Stable tag: 1.2a
+Stable tag: 1.0.1
 
-Automatically adds a CopyAlert for a page or post
+Automatically adds a Copy Alert for a page or post
 
 == Description ==
 
-If you are concerned about other copying your content or just want to know where your copy is being distributed, this plugin will make it easy to add a copy alert to any post or page that will notify you via email with reports of copies of your content.
+If you are concerned about others copying your content or just want to know where your copy is being distributed, this plugin will make it easy to add a copy alert to any post or page that will notify you via email with reports of copies of your content.
 
 == Installation == 
 
