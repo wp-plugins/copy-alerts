@@ -2,16 +2,16 @@
 
 Donate Link: http://blog.bitscan.com/copyalerts-wordpress-plugin/
 Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, copyalerts, copy alerts, content visibility, copyright, protection, DCMA, notify
-Contributors: mark nelson
-Requires at least: 1.5
+Contributors: Mark Nelson
+Requires at least: 2.3
 Tested up to: 2.5
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
-Automatically adds a Copy Alert for a page or post
+Adds a Copy Alert for a page or post
 
 == Description ==
 
-If you are concerned about others copying your content or just want to know where your copy is being distributed, this plugin will make it easy to add a copy alert to any post or page that will notify you via email with reports of copies of your content.
+If you are concerned about others copying your content or just want to know where your copy is being distributed, this plugin will make it easy to add a copy alert to any post or page. You will be notified via email with reports of copies of your content that are found.
 
 == Installation == 
 
