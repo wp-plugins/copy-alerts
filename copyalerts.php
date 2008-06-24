@@ -3,7 +3,7 @@
 Plugin Name: Copy Alerts
 Plugin URI: http://blog.bitscan.com/copyalerts-wordpress-plugin/
 Description: Automatically adds a Copy Alert for a page or post. You'll be notified via email when your content is found on other web pages.
-Version: 1.0.2
+Version: 1.0.3
 Author: Mark Nelson
 Author URI: http://blog.bitscan.com/copyalerts-wordpress-plugin/
 */
