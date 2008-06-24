@@ -19,8 +19,8 @@ Once a Copy Alert is added, you will be notified when copies of your content are
 
 1. Download the plugin archive and expand it.
 2. Upload the copy-alerts folder to your /wp-content/plugins directory.
-3. Go to the Plugins page in your WordPress administration area and click 'Activate' for Copy Alerts.
-4. Enter a notification email address where the Copy Alert should be sent
+3. Go to the plugins page and click 'Activate' for Copy Alerts.
+4. Enter a notification email where all Copy Alerts should be sent
 
 == Frequently Asked Questions ==
 
