@@ -1,7 +1,7 @@
 === Copy Alerts ===
 
 Donate Link: http://blog.bitscan.com/copyalerts-wordpress-plugin/
-Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, copyalerts, copy alerts, content visibility, copyright, protection, DCMA, notify
+Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, Copy Alerts, Content Visibility, Copyright Notification
 Contributors: Mark Nelson
 Requires at least: 2.3
 Tested up to: 2.5
