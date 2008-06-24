@@ -5,9 +5,9 @@ Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, Copy Alerts,
 Contributors: Mark Nelson
 Requires at least: 2.3
 Tested up to: 2.5
-Stable tag: 1.0.2
+Stable tag: 1.0.4
 
-Adds a Copy Alert for a page or post
+The Copy Alerts plugin makes it easy to add a content copying alert for any WordPress post or page.
 
 == Description ==
 

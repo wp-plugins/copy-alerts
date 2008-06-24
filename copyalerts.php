@@ -3,7 +3,7 @@
 Plugin Name: Copy Alerts
 Plugin URI: http://blog.bitscan.com/copyalerts-wordpress-plugin/
 Description: Automatically adds a Copy Alert for a page or post. You'll be notified via email when your content is found on other web pages.
-Version: 1.0.3
+Version: 1.0.4
 Author: Mark Nelson
 Author URI: http://blog.bitscan.com/copyalerts-wordpress-plugin/
 */
@@ -71,6 +71,11 @@ function wpca_options()
 <tr valign="top">
 <td><input type="text" name="wpca_email_from" id="wpca_email_from" value="<?php echo $email_from; ?>" size="40"></td>
 </tr>
+<tr><td>
+The Copy Alerts plugin makes it easy to add a content copying alert for any WordPress post or page.<br /><br />
+Just click the Copy Alert link on each post or page you wish to monitor and  you will be notified when copies of your content are found.<br /><br />
+You will be provided a detailed report that highlights the copied content in a side by side comparison view.
+</td></tr>
 <tr><td>
 <p class="submit">
 <input type="submit" name="Submit" value="Update Email &raquo;" />
