@@ -11,15 +11,13 @@ Adds a Copy Alert for a page or post
 
 == Description ==
 
-If you are concerned about others copying your content or just want to know where your content is being distributed, this plugin will make it easy to add a copy alert for any post or page. 
-
-Once a Copy Alert is added, you will be notified when copies of your content are found. You will be provided a detailed report that highlights the copied content in a side by side comparison view.
+If you are concerned about others copying your content or just want to know where your content is being distributed, this plugin will make it easy to add a copy alert for any post or page. Once a Copy Alert is added, you will be notified when copies of your content are found. You will be provided a detailed report that highlights the copied content in a side by side comparison view.
 
 == Installation == 
 
-1. Download the plugin archive and expand it.
-2. Upload the copy-alerts folder to your /wp-content/plugins directory.
-3. Go to the plugins page and click 'Activate' for Copy Alerts.
+1. Download the plugin archive and expand it
+2. Upload the copy-alerts folder to your /wp-content/plugins/ directory
+3. Go to the plugins page and click 'Activate' for Copy Alerts
 4. Enter a notification email where all Copy Alerts should be sent
 
 == Frequently Asked Questions ==
