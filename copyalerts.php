@@ -28,7 +28,7 @@ Author URI: http://blog.bitscan.com/copyalerts-wordpress-plugin/
 function wpca_show_form()
 {
 	echo '<p><a href="http://www.copyalerts.com/">';
-	echo 'Content monitored by Copy Alerts&trade;</a></p>' . "\n";
+	echo 'content monitored with Copy Alerts&trade;</a></p>' . "\n";
 }
 
 function wpca_install()
