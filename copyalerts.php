@@ -140,7 +140,7 @@ function add_copyalert() {
 <div class="inside">
 <div>
 <a style="font-size:12px;margin-top:10px;margin-bottom:10px;text-decoration:none;" href="http://www.copyalerts.com/api/wordpress/?email=<? print stripslashes(get_option('wpca_email_from')) ?>&uri=<? print get_permalink( $page_ID ) ?>" target="_new"><b>CREATE NEW COPY ALERT</a><br />
-<b>Monitor this content and get notified via email of other copies found.</b>
+<b>Get notified when others publish a part or all of this content.</b>
 </div>
 </div>
 </div>
