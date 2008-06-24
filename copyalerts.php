@@ -62,20 +62,21 @@ function wpca_options()
 ?>
 
 <div class="wrap">
-<h2>Copy Alerts Settings</h2>
+<h2>Copy Alerts Settings</h2><br />
+<fieldset class="options">
+<legend><b>Description</b></legend><br />
+The Copy Alerts plugin makes it easy to add a content copying alert for any WordPress post or page.<br /><br />
+Just click the Copy Alert link on each post or page you wish to monitor and  you will be notified when copies of your content are found.<br /><br /> 
+You will be provided a detailed report that highlights the copied content in a side by side comparison view.<br /><br />
+</fieldset>
 <form name="wpca_form" method="post" action="">
 <input type="hidden" name="wpca_hidden" value="ca0319"><br />
 <fieldset class="options">
-<legend>Notification Email</legend>
+<legend><b>Notification Email</b></legend>
 <table width="100%" cellspacing="2" cellpadding="5" class="optiontable editform">
 <tr valign="top">
 <td><input type="text" name="wpca_email_from" id="wpca_email_from" value="<?php echo $email_from; ?>" size="40"></td>
 </tr>
-<tr><td>
-The Copy Alerts plugin makes it easy to add a content copying alert for any WordPress post or page.<br /><br />
-Just click the Copy Alert link on each post or page you wish to monitor and  you will be notified when copies of your content are found.<br /><br />
-You will be provided a detailed report that highlights the copied content in a side by side comparison view.
-</td></tr>
 <tr><td>
 <p class="submit">
 <input type="submit" name="Submit" value="Update Email &raquo;" />
