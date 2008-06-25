@@ -25,7 +25,3 @@ If you are concerned about others copying your content or just want to know wher
 http://blog.bitscan.com/copyalerts-wordpress-plugin/
 
 == Screenshots ==
-
-http://blog.bitscan.com/wp-content/uploads/2008/06/create_new_copy_alert.png
-
-http://blog.bitscan.com/wp-content/uploads/2008/06/enter_copy_alerts_notify_emailt.png
