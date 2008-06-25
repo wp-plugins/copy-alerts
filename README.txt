@@ -26,4 +26,6 @@ http://blog.bitscan.com/copyalerts-wordpress-plugin/
 
 == Screenshots ==
 
-<img src="http://blog.bitscan.com/wp-content/uploads/2008/06/copyalerts_wordpress_2.png" alt="Copy Alerts Notification Email" />
+http://blog.bitscan.com/wp-content/uploads/2008/06/create_new_copy_alert.png
+
+http://blog.bitscan.com/wp-content/uploads/2008/06/enter_copy_alerts_notify_emailt.png
