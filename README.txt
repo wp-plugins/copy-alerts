@@ -26,6 +26,5 @@ http://blog.bitscan.com/copyalerts-wordpress-plugin/
 
 == Screenshots ==
 
-screenshot-1.png
-screenshot-2.png
-
+1.
+2.
