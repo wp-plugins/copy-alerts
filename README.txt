@@ -11,7 +11,7 @@ Copy Alerts notifies you when someone copies your content
 
 == Description ==
 
-If you are concerned about others copying your content or just want to know where your content is being distributed, this plugin will make it easy to add a copy alert for any post or page. Once a Copy Alert is added, you will be notified when copies of your content are found. You will be provided a detailed report that highlights the copied content in a side by side comparison view.
+If you are concerned about others copying your content or just want to know where your content is being distributed, this plugin will make it easy to add a Copy Alert for any post or page. Once a Copy Alert is added, you will be notified when copies of your content are found. You will be provided a detailed report that highlights the copied content in a side by side comparison view.
 
 == Installation == 
 
@@ -26,4 +26,4 @@ http://blog.bitscan.com/copyalerts-wordpress-plugin/
 
 == Screenshots ==
 
-http://blog.bitscan.com/copyalerts-wordpress-plugin/
+<img src="http://blog.bitscan.com/wp-content/uploads/2008/06/copyalerts_wordpress_2.png" alt="Copy Alerts Notification Email" />
