@@ -22,9 +22,9 @@ If you are concerned about others copying your content or just want to know wher
 
 == Frequently Asked Questions ==
 
-http://blog.bitscan.com/copyalerts-wordpress-plugin/
+You must confirm each Copy Alert added via a confirmation email. It's easy, just click the confirm link when you receive it. This is to prevent others from maliciously signing you up for alerts you don't want.
 
 == Screenshots ==
 
-1.
-2.
+1. Create a new Copy Alert
+2. Indicate your Notification Email
