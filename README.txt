@@ -5,7 +5,7 @@ Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, Copy Alerts,
 Contributors: Mark Nelson
 Requires at least: 2.3
 Tested up to: 2.5
-Stable tag: 1.0.8
+Stable tag: 1.0.9
 
 Copy Alerts notifies you when someone copies your content
 
