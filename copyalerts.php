@@ -1,14 +1,14 @@
 <?php
 /*
 Plugin Name: Copy Alerts
-Plugin URI: http://blog.bitscan.com/copyalerts-wordpress-plugin/
+Plugin URI: http://www.pdxtechnologies.com/
 Description: Automatically adds a Copy Alert for a page or post. You'll be notified via email when your content is found on other web pages.
-Version: 1.0.9
+Version: 1.1.0
 Author: Mark Nelson
-Author URI: http://blog.bitscan.com/copyalerts-wordpress-plugin/
+Author URI: http://www.pdxtechnologies.com/
 */
 
-/*  Copyright 2008 BitScan Inc. (http://bitscan.com/)
+/*  Copyright 2009 PDX Technologies, LLC. (http://www.pdxtechnologies.com/)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
