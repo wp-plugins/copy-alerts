@@ -1,6 +1,6 @@
 === Copy Alerts ===
 
-Donate Link: http://www.pdxtechnologies.com/
+Donate Link: http://www.pdxtechnologies.com/copy-alerts-wordpress-plugin/
 Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, Copy Alerts, Content Visibility, Copyright Notification, Content Copying, Copying Detection
 Contributors: Mark Nelson
 Requires at least: 2.3

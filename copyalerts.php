@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Copy Alerts
-Plugin URI: http://www.pdxtechnologies.com/
+Plugin URI: http://www.pdxtechnologies.com/copy-alerts-wordpress-plugin/
 Description: Automatically adds a Copy Alert for a page or post. You'll be notified via email when your content is found on other web pages.
 Version: 1.1.0
 Author: Mark Nelson
-Author URI: http://www.pdxtechnologies.com/
+Author URI: http://www.pdxtechnologies.com/mark-b-nelson/
 */
 
 /*  Copyright 2009 PDX Technologies, LLC. (http://www.pdxtechnologies.com/)
