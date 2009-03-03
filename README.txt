@@ -1,11 +1,11 @@
 === Copy Alerts ===
 
-Donate Link: http://blog.bitscan.com/copyalerts-wordpress-plugin/
+Donate Link: http://www.pdxtechnologies.com/
 Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, Copy Alerts, Content Visibility, Copyright Notification, Content Copying, Copying Detection
 Contributors: Mark Nelson
 Requires at least: 2.3
-Tested up to: 2.5
-Stable tag: 1.0.9
+Tested up to: 2.7
+Stable tag: 1.1.0
 
 Copy Alerts notifies you when someone copies your content
 
