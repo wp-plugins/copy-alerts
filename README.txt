@@ -1,30 +1,24 @@
 === Copy Alerts ===
 
-Donate Link: http://www.pdxtechnologies.com/copy-alerts-wordpress-plugin/
+Donate Link: http://pdxt.com/
 Tags: Plagiarism Detection, Copyright Protection, Viral Visibility, Copy Alerts, Content Visibility, Copyright Notification, Content Copying, Copying Detection
 Contributors: Mark Nelson
 Requires at least: 2.3
 Tested up to: 2.7
 Stable tag: 1.1.0
 
-Copy Alerts notifies you when someone copies your content
+THIS PLUGIN IS NO LONGER ACTIVE AS COPYALERTS HAS BEEN SHUTDOWN - PLEASE DO NOT USE.
 
 == Description ==
 
-If you are concerned about others copying your content or just want to know where your content is being distributed, this plugin will make it easy to add a Copy Alert for any post or page. Once a Copy Alert is added, you will be notified when copies of your content are found. You will be provided a detailed report that highlights the copied content in a side by side comparison view.
+THIS PLUGIN IS NO LONGER ACTIVE AS COPYALERTS HAS BEEN SHUTDOWN - PLEASE DO NOT USE.
 
 == Installation == 
 
-1. Download the plugin archive and expand it
-2. Upload the copy-alerts folder to your /wp-content/plugins/ directory
-3. Go to the plugins page and click 'Activate' for Copy Alerts
-4. Enter a notification email where all Copy Alerts should be sent
+THIS PLUGIN IS NO LONGER ACTIVE AS COPYALERTS HAS BEEN SHUTDOWN - PLEASE DO NOT USE.
 
 == Frequently Asked Questions ==
 
-You must confirm each Copy Alert added via a confirmation email. It's easy, just click the confirm link when you receive it. This is to prevent others from maliciously signing you up for alerts you don't want.
+THIS PLUGIN IS NO LONGER ACTIVE AS COPYALERTS HAS BEEN SHUTDOWN - PLEASE DO NOT USE.
 
 == Screenshots ==
-
-1. Create a new Copy Alert
-2. Indicate your Notification Email
